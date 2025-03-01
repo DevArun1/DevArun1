@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋 I'm Arun Mahanwar
 
-<!--
-**DevArun1/DevArun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a DevOps Engineer passionate about automating and optimizing cloud infrastructure. I specialize in AWS, Kubernetes, Terraform, Ansible, and CI/CD pipelines.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔧 DevOps | Cloud | Automation | Infrastructure as Code
+- ☁️ AWS Enthusiast | Kubernetes | Docker | Helm | Terraform | Ansible
+- 🖥️ Linux Expert | Scripting | Security Hardening | Compliance Automation
+- 🎯 Passionate about learning and sharing knowledge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Technologies & Tools
+- **Cloud:** AWS (EC2, S3, IAM, VPC, Lambda, ECS, EKS, CloudWatch, etc.)
+- **Automation:** Ansible, Terraform, CloudFormation, CI/CD (Jenkins, GitHub Actions)
+- **Containers & Orchestration:** Docker, Kubernetes, Helm
+- **Monitoring & Security:** Prometheus, Grafana, ELK, CloudTrail, AWS Config
+- **Scripting & OS:** Bash, Python, Linux Administration
+
+## 📌 GitHub Stats
+![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevArun1&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevArun1&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevArun1&layout=compact&theme=radical)
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/arun-mahanwar-36866b164)  
+- 📧 arunmahanwar1996@gmail.com
+
+---
+⚡ *Always exploring new technologies and solving real-world problems!*
