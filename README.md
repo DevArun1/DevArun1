@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a **DevOps Engineer** passionate about **autom
 - 🎯 **Passionate about learning and sharing knowledge**
 
 ## 🔥 Technologies & Tools
-- <u>_**Cloud:_**</u> AWS (EC2, S3, IAM, VPC, Lambda, ECS, EKS, CloudWatch, etc.)
+- <u>**_Cloud:_**</u> AWS (EC2, S3, IAM, VPC, Lambda, ECS, EKS, CloudWatch, etc.)
 - <u>**_Automation:_**</u> Ansible, Terraform, CloudFormation, CI/CD (Jenkins, GitHub Actions)
 - <u>**_Containers & Orchestration:_**</u> Docker, Kubernetes, Helm
 - <u>**_Monitoring & Security:_**</u> Prometheus, Grafana, ELK, CloudTrail, AWS Config
