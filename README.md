@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm a DevOps Engineer passionate about automating 
 - **Scripting & OS:** Bash, Python, Linux Administration
 
 ## 📌 GitHub Stats
-![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevArun1&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevArun1&theme=radical)
 
