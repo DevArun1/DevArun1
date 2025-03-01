@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Arun Mahanwar
 
-Welcome to my GitHub profile! I'm a DevOps Engineer passionate about automating and optimizing cloud infrastructure. I specialize in AWS, Kubernetes, Terraform, Ansible, and CI/CD pipelines.
+Welcome to my GitHub profile! I'm a **DevOps Engineer** passionate about **automating and optimizing cloud infrastructure**. I specialize in **AWS, Kubernetes, Docker, Terraform, Ansible, and CI/CD pipelines**.
 
 ## 🚀 About Me
 - 🔧 DevOps | Cloud | Automation | Infrastructure as Code
