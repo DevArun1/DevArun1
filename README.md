@@ -3,17 +3,17 @@
 Welcome to my GitHub profile! I'm a **DevOps Engineer** passionate about **automating and optimizing cloud infrastructure**. I specialize in **AWS, Kubernetes, Docker, Terraform, Ansible, and CI/CD pipelines**.
 
 ## 🚀 About Me
-- 🔧 DevOps | Cloud | Automation | Infrastructure as Code
-- ☁️ AWS Enthusiast | Kubernetes | Docker | Helm | Terraform | Ansible
-- 🖥️ Linux Expert | Scripting | Security Hardening | Compliance Automation
-- 🎯 Passionate about learning and sharing knowledge
+- 🔧**DevOps | Cloud | Automation | Infrastructure as Code**
+- ☁️ **AWS Enthusiast | Kubernetes | Docker | Helm | Terraform | Ansible**
+- 🖥️ **Linux Expert | Scripting | Security Hardening | Compliance Automation**
+- 🎯 **Passionate about learning and sharing knowledge**
 
 ## 🔥 Technologies & Tools
-- **Cloud:** AWS (EC2, S3, IAM, VPC, Lambda, ECS, EKS, CloudWatch, etc.)
-- **Automation:** Ansible, Terraform, CloudFormation, CI/CD (Jenkins, GitHub Actions)
-- **Containers & Orchestration:** Docker, Kubernetes, Helm
-- **Monitoring & Security:** Prometheus, Grafana, ELK, CloudTrail, AWS Config
-- **Scripting & OS:** Bash, Python, Linux Administration
+- <u>**Cloud:**</u> AWS (EC2, S3, IAM, VPC, Lambda, ECS, EKS, CloudWatch, etc.)
+- <u>**Automation:**</u> Ansible, Terraform, CloudFormation, CI/CD (Jenkins, GitHub Actions)
+- <u>**Containers & Orchestration:**</u> Docker, Kubernetes, Helm
+- <u>**Monitoring & Security:**</u> Prometheus, Grafana, ELK, CloudTrail, AWS Config
+- <u>**Scripting & OS:**</u> Bash, Python, Linux Administration
 
 ## 📌 GitHub Stats
 
