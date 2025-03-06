@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a **DevOps Engineer** passionate about **autom
 
 ## 📌 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevArun1&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevArun1&layout=compact&theme=radical)
 
