@@ -28,4 +28,4 @@ Welcome to my GitHub profile! I'm a **DevOps Engineer** passionate about **autom
 - 📧 arunmahanwar1996@gmail.com
 
 ---
-⚡ *Always exploring new technologies and solving real-world problems!*
+⚡ *Always exploring new technologies and solving real-world problems!* ⚡
